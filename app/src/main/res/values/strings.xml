@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Foodator</string>
+    <string name="txt_get_started">Get Started</string>
+    <string name="lbl_order_number">Order Number - </string>
+    <string name="lbl_price">Price - </string>
+    <string name="lbl_quantity">Quantity - </string>
+    <string name="lbl_name">Your Name</string>
+    <string name="lbl_number">Your Number</string>
+    <string name="txt_order_now">Order Now</string>
+    <string name="txt_update_order">Update Order</string>
+    <string name="txt_delete_order">Delete Order</string>
+    <string name="txt_my_orders">My Orders</string>
+    <string name="txt_price">Price</string>
+    <string name="txt_order_added_success">Order added successfully</string>
+    <string name="txt_order_updated_success">Order updated successfully</string>
+    <string name="txt_order_deleted_success">Order deleted successfully</string>
+    <string name="txt_order_added_failed">Something went wrong. Please Try again later</string>
+    <string name="txt_order_validation">Please provide required details</string>
+</resources>
